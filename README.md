@@ -3,25 +3,9 @@
 -->
 # 𝕃𝕚𝕟𝕖𝕤 — 𝕋𝕙𝕖𝕞𝕖𝕤 𝕗𝕠𝕣 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠 ℂ𝕠𝕕𝕖
 
-<!--
-Lines is a family of high-contrast color themes
-with crisp borders and subtly tinted backgrounds.
--->
-𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝖿𝖺𝗆𝗂𝗅𝗒 𝗈𝖿 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖼𝗈𝗅𝗈𝗋 𝗍𝗁𝖾𝗆𝖾𝗌
-𝗐𝗂𝗍𝗁 𝖼𝗋𝗂𝗌𝗉 𝖻𝗈𝗋𝖽𝖾𝗋𝗌 𝖺𝗇𝖽 𝗌𝗎𝖻𝗍𝗅𝗒 𝗍𝗂𝗇𝗍𝖾𝖽 𝖻𝖺𝖼𝗄𝗀𝗋𝗈𝗎𝗇𝖽𝗌.
-
 <!-- Visual Studio Marketplace — mpower-codeworks -->
 
 [Vɪꜱᴜᴀʟ Sᴛᴜᴅɪᴏ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ — ᴍᴘᴏᴡᴇʀ-ᴄᴏᴅᴇᴡᴏʀᴋꜱ](https://marketplace.visualstudio.com/publishers/mpower-codeworks)
-
-## 𝕋𝕙𝕖𝕞𝕖 𝕘𝕒𝕝𝕝𝕖𝕣𝕪
-
-<!--
-Select a screenshot to view it at full size, or
-follow the theme name to its individual repository.
--->
-𝖲𝖾𝗅𝖾𝖼𝗍 𝖺 𝗌𝖼𝗋𝖾𝖾𝗇𝗌𝗁𝗈𝗍 𝗍𝗈 𝗏𝗂𝖾𝗐 𝗂𝗍 𝖺𝗍 𝖿𝗎𝗅𝗅 𝗌𝗂𝗓𝖾, 𝗈𝗋
-𝖿𝗈𝗅𝗅𝗈𝗐 𝗍𝗁𝖾 𝗍𝗁𝖾𝗆𝖾 𝗇𝖺𝗆𝖾 𝗍𝗈 𝗂𝗍𝗌 𝗂𝗇𝖽𝗂𝗏𝗂𝖽𝗎𝖺𝗅 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒.
 
 <table>
   <tr>
