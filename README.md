@@ -91,6 +91,47 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/mpower-codeworks/Titanium-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Titanium-Lines/main/images/banner.png" width="260" alt="Titanium Lines banner"></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Reserved for future theme -->
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/mpower-codeworks/Titanium-Lines/main/images/screen2.jpg"><img src="https://raw.githubusercontent.com/mpower-codeworks/Titanium-Lines/main/images/screen2.jpg" width="440" alt="Titanium Lines editor"></a><br>
+      <a href="https://github.com/mpower-codeworks/Titanium-Lines"><strong>Tɪᴛᴀɴɪᴜᴍ Lɪɴᴇꜱ</strong></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Reserved for future theme -->
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <!--Titanium Lines is a dark, high-contrast VS Code color theme with cool metallic borders, subtle background depth, and ice-blue accents.-->
+      𝖳𝗂𝗍𝖺𝗇𝗂𝗎𝗆 𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝖽𝖺𝗋𝗄, 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖵𝖲 𝖢𝗈𝖽𝖾 𝖼𝗈𝗅𝗈𝗋 𝗍𝗁𝖾𝗆𝖾 𝗐𝗂𝗍𝗁 𝖼𝗈𝗈𝗅 𝗆𝖾𝗍𝖺𝗅𝗅𝗂𝖼 𝖻𝗈𝗋𝖽𝖾𝗋𝗌, 𝗌𝗎𝖻𝗍𝗅𝖾 𝖻𝖺𝖼𝗄𝗀𝗋𝗈𝗎𝗇𝖽 𝖽𝖾𝗉𝗍𝗁, 𝖺𝗇𝖽 𝗂𝖼𝖾-𝖻𝗅𝗎𝖾 𝖺𝖼𝖼𝖾𝗇𝗍𝗌.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Reserved for future theme -->
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.titanium-lines">Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> · <a href="https://github.com/mpower-codeworks/Titanium-Lines/releases">Rᴇʟᴇᴀꜱᴇꜱ</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Reserved for future theme -->
+      &nbsp;
+    </td>
+  </tr>
+</table>
+
 <!--
 The individual repositories contain theme source files, palettes, release packages and licensing information. The original syntax-color rules are based on Microsoft’s VS Code *Default High Contrast* theme, distributed under the MIT License.
 -->
