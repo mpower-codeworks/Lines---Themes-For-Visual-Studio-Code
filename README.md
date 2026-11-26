@@ -1,12 +1,17 @@
-<!--
-# Lines — Themes for Visual Studio Code
--->
-# 𝕃𝕚𝕟𝕖𝕤 — 𝕋𝕙𝕖𝕞𝕖𝕤 𝕗𝕠𝕣 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠 ℂ𝕠𝕕𝕖
-
+<!-- # Lines — Themes for Visual Studio Code -->
 <!-- Visual Studio Marketplace — mpower-codeworks -->
-
-[Vɪꜱᴜᴀʟ Sᴛᴜᴅɪᴏ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ — ᴍᴘᴏᴡᴇʀ-ᴄᴏᴅᴇᴡᴏʀᴋꜱ](https://marketplace.visualstudio.com/publishers/mpower-codeworks)
-
+<table>
+    <tr>
+        <td width="1000" align="center">
+            𝕃𝕚𝕟𝕖𝕤 — 𝕋𝕙𝕖𝕞𝕖𝕤 𝕗𝕠𝕣 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠 ℂ𝕠𝕕𝕖
+        </td>
+    </tr>
+    <tr>
+        <td width="1000" align="center">
+            <a href="https://marketplace.visualstudio.com/publishers/mpower-codeworks">Vɪꜱᴜᴀʟ Sᴛᴜᴅɪᴏ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ — ᴍᴘᴏᴡᴇʀ-ᴄᴏᴅᴇᴡᴏʀᴋꜱ</a>
+        </td>
+    </tr>
+</table>
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
