@@ -68,8 +68,7 @@ follow the theme name to its individual repository.
       <a href="https://github.com/mpower-codeworks/Green-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Green-Lines/main/images/banner.png" width="260" alt="Green Lines banner"></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Black Lines: reserved for banner. -->
-      &nbsp;
+      <a href="https://github.com/mpower-codeworks/Black-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_blk.png#gh-light-mode-only" width="260" alt="Black Lines banner"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_wht.png#gh-dark-mode-only" width="260" alt="Black Lines banner"></a>
     </td>
   </tr>
   <tr>
@@ -78,8 +77,8 @@ follow the theme name to its individual repository.
       <a href="https://github.com/mpower-codeworks/Green-Lines"><strong>Gʀᴇᴇɴ Lɪɴᴇꜱ</strong></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Black Lines: reserved for zoomed example and theme name. -->
-      &nbsp;
+      <a href="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/screen3.jpg"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/screen3.jpg" width="440" alt="Black Lines — zoomed JSON editor"></a><br>
+      <a href="https://github.com/mpower-codeworks/Black-Lines"><strong>Bʟᴀᴄᴋ Lɪɴᴇꜱ</strong></a>
     </td>
   </tr>
   <tr>
@@ -88,8 +87,8 @@ follow the theme name to its individual repository.
  	  𝖦𝗋𝖾𝖾𝗇 𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝖽𝖺𝗋𝗄, 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖵𝖲 𝖢𝗈𝖽𝖾 𝖼𝗈𝗅𝗈𝗋 𝗍𝗁𝖾𝗆𝖾 𝗎𝗌𝗂𝗇𝗀 𝗇𝖾𝖺𝗋-𝖻𝗅𝖺𝖼𝗄 𝗌𝗎𝗋𝖿𝖺𝖼𝖾𝗌 𝖺𝗇𝖽 𝗆𝗎𝗍𝖾𝖽 𝗉𝗁𝗈𝗌𝗉𝗁𝗈𝗋-𝗀𝗋𝖾𝖾𝗇 𝖻𝗈𝗋𝖽𝖾𝗋𝗌.
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Black Lines: reserved for description. -->
-      &nbsp;
+      <!--Black Lines is a light, high-contrast VS Code color theme using a mild ivory background and black borders.-->
+      𝖡𝗅𝖺𝖼𝗄 𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝗅𝗂𝗀𝗁𝗍, 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖵𝖲 𝖢𝗈𝖽𝖾 𝖼𝗈𝗅𝗈𝗋 𝗍𝗁𝖾𝗆𝖾 𝗎𝗌𝗂𝗇𝗀 𝖺 𝗆𝗂𝗅𝖽 𝗂𝗏𝗈𝗋𝗒 𝖻𝖺𝖼𝗄𝗀𝗋𝗈𝗎𝗇𝖽 𝖺𝗇𝖽 𝖻𝗅𝖺𝖼𝗄 𝖻𝗈𝗋𝖽𝖾𝗋𝗌.
     </td>
   </tr>
   <tr>
@@ -97,8 +96,7 @@ follow the theme name to its individual repository.
       <a href="https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.green-lines">Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> · <a href="https://github.com/mpower-codeworks/Green-Lines/releases">Rᴇʟᴇᴀꜱᴇꜱ</a>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- Black Lines: reserved for Marketplace and Releases links. -->
-      &nbsp;
+      <a href="https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.black-lines">Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> · <a href="https://github.com/mpower-codeworks/Black-Lines/releases">Rᴇʟᴇᴀꜱᴇꜱ</a>
     </td>
   </tr>
 </table>
