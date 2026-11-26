@@ -68,8 +68,8 @@ follow the theme name to its individual repository.
       <a href="https://github.com/mpower-codeworks/Green-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Green-Lines/main/images/banner.png" width="260" alt="Green Lines banner"></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/mpower-codeworks/Black-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_blk.png#gh-light-mode-only" width="260" alt="Black Lines banner"></a>
-      <a href="https://github.com/mpower-codeworks/Black-Lines"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_wht.png#gh-dark-mode-only" width="260" alt="Black Lines banner"></a>
+      <a href="https://github.com/mpower-codeworks/Black-Lines#gh-light-mode-only"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_blk.png#gh-light-mode-only" width="260" alt="Black Lines banner"></a>
+      <a href="https://github.com/mpower-codeworks/Black-Lines#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/mpower-codeworks/Black-Lines/main/images/banner_wht.png#gh-dark-mode-only" width="260" alt="Black Lines banner"></a>
     </td>
   </tr>
   <tr>
@@ -118,4 +118,3 @@ The individual repositories contain theme source files, palettes, release packag
 		</td>
 	</tr>
 </table>
-
