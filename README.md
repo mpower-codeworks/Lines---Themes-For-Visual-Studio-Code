@@ -1,8 +1,12 @@
-<!-- # Lines — Themes for Visual Studio Code -->
+<!-- 
+ＬＩＮＥＳ：　ＴＨＥＭＥＳ　ＦＯＲ　ＶＳ　ＣＯＤＥ
+##### 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕃𝕚𝕟𝕖𝕤 #####
+# Lines — Themes for Visual Studio Code
+-->
 <!-- Visual Studio Marketplace — mpower-codeworks -->
 <table>
     <tr>
-        <td width="1000" align="center">
+        <td width="2000" align="center">
             𝕃𝕚𝕟𝕖𝕤 — 𝕋𝕙𝕖𝕞𝕖𝕤 𝕗𝕠𝕣 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠 ℂ𝕠𝕕𝕖
         </td>
     </tr>
